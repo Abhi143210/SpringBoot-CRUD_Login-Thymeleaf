@@ -13,8 +13,7 @@ Welcome to the Student Management System project! This application is built usin
 5. Usage
 6. Screenshots
 7. Contributing
-8. License
-9. Contact
+8. Contact
 
 ## Introduction
 
@@ -58,7 +57,7 @@ You'll be presented with the login page. Use the provided credentials (or regist
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
+![Screenshot 1](/blob/main/pngs/list.png)
 ![Screenshot 2](/path/to/screenshot2.png)
 ![Screenshot 3](/path/to/screenshot3.png)
 
@@ -66,13 +65,11 @@ You'll be presented with the login page. Use the provided credentials (or regist
 
 Contributions to this project are welcome! If you find a bug or want to add a new feature, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](/path/to/LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at your@email.com.
+If you have any questions or suggestions, please feel free to contact me at hosangadiabhishek@email.com.
 
 ---
-*Note: Replace "/path/to/" with the actual file paths for the logo, screenshots, and license.*
+
