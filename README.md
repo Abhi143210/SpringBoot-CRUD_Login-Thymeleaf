@@ -56,10 +56,12 @@ Once the application is up and running, open your web browser and navigate to th
 You'll be presented with the login page. Use the provided credentials (or register as a new user) to log in. Depending on your role (admin, teacher, staff), you'll have access to different features of the application.
 
 ## Screenshots
-
-![Screenshot 1](/blob/main/pngs/list.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot3.png)
+### This is the Login Page where we should add username and password
+![Screenshot 1](https://github.com/Abhi143210/SpringBoot-CRUD_Login-Thymeleaf/blob/main/pngs/login.png)
+### After login we can see the list of students in that we update or delete student details
+![Screenshot 2](https://github.com/Abhi143210/SpringBoot-CRUD_Login-Thymeleaf/blob/main/pngs/list.png)
+### In the Update page we can update student details
+![Screenshot 3](https://github.com/Abhi143210/SpringBoot-CRUD_Login-Thymeleaf/blob/main/pngs/update.png)
 
 ## Contributing
 
