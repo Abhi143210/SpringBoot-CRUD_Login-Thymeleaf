@@ -1,10 +1,10 @@
-package org.jsp.StudentManagementSystem.service.impl;
+package org.jsp.LoginAndRegister.service.impl;
 
 import java.util.List;
 
-import org.jsp.StudentManagementSystem.Entity.Student;
-import org.jsp.StudentManagementSystem.Repository.StudentRepository;
-import org.jsp.StudentManagementSystem.service.StudentService;
+import org.jsp.LoginAndRegister.Entity.Student;
+import org.jsp.LoginAndRegister.Repository.StudentRepository;
+import org.jsp.LoginAndRegister.service.StudentService;
 import org.springframework.stereotype.Service;
 @Service
 public class StudentServiceImpl implements StudentService{

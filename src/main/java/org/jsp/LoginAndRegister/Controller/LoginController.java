@@ -1,4 +1,4 @@
-package org.jsp.StudentManagementSystem.Controller;
+package org.jsp.LoginAndRegister.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

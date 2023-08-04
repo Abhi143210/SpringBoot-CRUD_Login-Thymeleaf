@@ -1,8 +1,8 @@
-package org.jsp.StudentManagementSystem.service;
+package org.jsp.LoginAndRegister.service;
 
 import java.util.List;
 
-import org.jsp.StudentManagementSystem.Entity.Student;
+import org.jsp.LoginAndRegister.Entity.Student;
 
 public interface StudentService {
 

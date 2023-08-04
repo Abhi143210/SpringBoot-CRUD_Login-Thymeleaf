@@ -1,4 +1,4 @@
-package org.jsp.StudentManagementSystem.Entity;
+package org.jsp.LoginAndRegister.Entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

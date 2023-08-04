@@ -1,6 +1,6 @@
 package org.jsp.LoginAndRegister;
 
-import org.jsp.StudentManagementSystem.Repository.StudentRepository;
+import org.jsp.LoginAndRegister.Repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "org.jsp.StudentManagementSystem")
+@ComponentScan(basePackages = "org.jsp.LoginAndRegister")
 
 public class LoginAndRegisterApplication implements CommandLineRunner{
 

@@ -1,6 +1,6 @@
-package org.jsp.StudentManagementSystem.Controller;
-import org.jsp.StudentManagementSystem.Entity.*;
-import org.jsp.StudentManagementSystem.service.StudentService;
+package org.jsp.LoginAndRegister.Controller;
+import org.jsp.LoginAndRegister.Entity.*;
+import org.jsp.LoginAndRegister.service.StudentService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
